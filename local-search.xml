@@ -4,13 +4,25 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2022/04/02/hello-world/"/>
-    <url>/2022/04/02/hello-world/</url>
+    <title>新的一年flag</title>
+    <link href="/2022/04/11/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4flag/"/>
+    <url>/2022/04/11/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4flag/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>关于博客，我已经搭建了好几次，使用过最多的是typecho，前面也使用过hexo。这次的博客重建是因为看到了hexo 的 <a href="https://github.com/fluid-dev/hexo-theme-fluid">Fluid</a> 主题，这让我对它产生了一见钟情。这次的博客重建更多的是为了记录美好生活，记录自己的一些想法、一些点子，一些学习记录。最近也是产生了很多奇奇怪怪的想法，想学很多东西，写一些flag吧。等明年的时候再回头看看，我完成了多少，今年我又成长了那些。之前看到一段话，特别喜欢，<code>当你翻开你的回忆，你一定会笑，所以现在不能放弃！</code> </p><ul><li><input type="checkbox" disabled > 写一个自己开源项目</li></ul><p>码代码是真的很帅耶，看到别人的各种项目也满是羡慕。但羡慕有什么用，我们要自己行动起来。在我使用别人项目的时候总觉得不是特别完美，我想 我还能写出更完美的项目！所以，我会学点时间学习 Python、Go语言的开发。开发出属于自己项目！</p><ul><li><input type="checkbox" disabled > SRC混出点成绩</li></ul><p>不用说，这个超酷的。看到各大SRC的排行榜的大佬们，也是超级羡慕。心想，我何时也能登上排行榜。给自己定个目标吧，在今年登上任意一家SRC排行榜的top20。所以我今年一定要非常非常努力，往后 - 乱杀各大src！</p><ul><li><input type="checkbox" disabled > 完善一个知识库</li></ul><p>目前自己也搭建了一个知识库，后面要不断的更新内容，将自己所学的东西都记录上去。完善自己的知识体系架构，也是挺不错的。一边是记录往后回头看看自己都学了一些什么东西，一边是记录复习，看看自己都忘了多少。</p><ul><li><input type="checkbox" disabled > 买一台属于自己的Mac</li></ul><p>一直没使用过mac电脑，存点钱，挣点钱给自己整一台。人生苦短，对自己好一点。</p><ul><li><input type="checkbox" disabled > 学会剪辑、拍摄</li></ul><p>学会剪辑，一方面是以后可能会在哔哩哔哩上面发布视频，也可能以后会在各大平台发布自己的生活记录。哈哈，当一会主播，感受一下被送礼物的感觉，或许也没有礼物。那就喊一下老铁，点点关注。拍摄，我想在生活中拍摄一些有趣的东西，听说会拍摄的男生在女生面前还会加分哦~ </p><ul><li><input type="checkbox" disabled > 购买人生中第一台摄像机</li></ul><p>前面如果学会了拍摄，那当然要买一台啦。这样才显得专业。</p><ul><li><input type="checkbox" disabled > 买一辆车</li></ul><p>肯定是要买四个轮的，买了搭学妹去兜风，哈哈哈。</p><p>今年的flag就这些了，希望我都能完成。今年一定要好好记录一些美好的事物，当我想到某些点子的时候，我一定要第一时间记录下来。</p>]]></content>
     
     
+    <categories>
+      
+      <category>随笔</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>随笔</tag>
+      
+    </tags>
     
   </entry>
   
